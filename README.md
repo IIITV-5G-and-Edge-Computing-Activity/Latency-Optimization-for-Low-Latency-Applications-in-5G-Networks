@@ -13,7 +13,7 @@ This repository contains a project aimed at optimizing latency for low-latency a
   - [Training the Model](#training-the-model)
   - [Testing the Model](#testing-the-model)
 - [Project Structure](#project-structure)
-- [Graphs].(#Graphs)
+- [Graphs](#graphs)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -91,8 +91,9 @@ latency-optimization-5g/
 ├── README.md              # Project documentation
 
 ## Graphs
-
-![image](https://github.com/user-attachments/assets/0b08f952-8943-4eb5-8ed9-2d98930bb33e)
+### Graph 1: Latency Performance Over Episodes
+![Latency Performance](https://github.com/user-attachments/assets/0b08f952-8943-4eb5-8ed9-2d98930bb33e.png)
+https://github.com/user-attachments/assets/0b08f952-8943-4eb5-8ed9-2d98930bb33e
 ![image](https://github.com/user-attachments/assets/40eb20b3-2144-4a78-982b-a7e40b5086be)
 
 
