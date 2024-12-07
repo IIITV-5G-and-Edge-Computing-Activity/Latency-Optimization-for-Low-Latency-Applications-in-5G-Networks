@@ -47,8 +47,8 @@ The RL agent learns to minimize latency by interacting with a simulated 5G netwo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/latency-optimization-5g.git
-   cd latency-optimization-5g
+   git clone https://github.com/your-username/Latency-Optimization-for-Low-Latency-Applications-in-5G-Networks.git
+   cd Latency-Optimization-for-Low-Latency-Applications-in-5G-Networks
    ```
 2. Create a virtual environment and activate it:
    ```bash
@@ -67,28 +67,19 @@ The RL agent learns to minimize latency by interacting with a simulated 5G netwo
 ### Training the Model
 Run the training script to train the Q-learning agent:
 ```bash
-python train.py
+python main.py
 ```
 This script trains the reinforcement learning agent in a simulated environment to optimize latency by learning optimal routing decisions.
 
-### Testing the Model
-After training, run the test script to evaluate the model's performance:
-```bash
-python test.py
-```
-The script simulates the RL agent’s performance in reducing latency and displays cumulative latency metrics.
-
----
 
 ## Project Structure
 ```
-latency-optimization-5g/
-├── env/                   # Custom Gym environment for latency optimization
-├── q_learning.py          # Q-learning algorithm implementation
-├── train.py               # Script to train the RL agent
-├── test.py                # Script to test the trained RL agent
-├── requirements.txt       # Project dependencies
-├── README.md              # Project documentation
+Latency-Optimization-for-Low-Latency-Applications-in-5G-Networks/
+├── LICENCE                   # For Fair use
+├── main.py                   # Project Code for reuse
+├── project_notebook.ipynb    # To understand our project and see the results
+├── requirements.txt          # Project dependencies
+├── README.md                 # Project documentation
 ```
 
 ---
