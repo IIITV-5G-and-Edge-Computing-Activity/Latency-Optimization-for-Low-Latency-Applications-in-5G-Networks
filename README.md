@@ -91,10 +91,11 @@ latency-optimization-5g/
 ├── README.md              # Project documentation
 
 ## Graphs
+
 ### Graph 1: Latency Performance Over Episodes
 ![Latency Performance](https://github.com/user-attachments/assets/0b08f952-8943-4eb5-8ed9-2d98930bb33e.png)
-https://github.com/user-attachments/assets/0b08f952-8943-4eb5-8ed9-2d98930bb33e
-![image](https://github.com/user-attachments/assets/40eb20b3-2144-4a78-982b-a7e40b5086be)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/98394685/393522418-40eb20b3-2144-4a78-982b-a7e40b5086be.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241207T142301Z&X-Amz-Expires=300&X-Amz-Signature=44ffba8004398e18be5632f2c16e64f96b87291a72b4ccc4e82222565fac6a6a&X-Amz-SignedHeaders=host)
 
 
 ## Future Improvements
