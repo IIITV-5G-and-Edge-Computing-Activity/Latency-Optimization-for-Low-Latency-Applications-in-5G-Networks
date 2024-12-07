@@ -98,30 +98,33 @@ latency-optimization-5g/
   <img src="https://github.com/user-attachments/assets/168090ab-8099-41f4-8b24-22965a2d909c" alt="Latency Performance" width="45%" />
   <img src="https://github.com/user-attachments/assets/6bbe4b7d-22a7-431a-8c96-86a0397d4946" alt="Reward Performance" width="45%" />
 </p>
----
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/168090ab-8099-41f4-8b24-22965a2d909" alt="Latency Performance" width="45%" />
-  <img src="https://github.com/user-attachments/assets/6bbe4b7d-22a7-431a-8c96-86a0397d4946" alt="Reward Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/89622734-3e22-43ee-90ff-c5049427fd97" alt="Latency Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/958701f1-99bb-40a0-bcb9-4b290697e8aa" alt="Reward Performance" width="45%" />
 </p>
----
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/168090ab-8099-41f4-8b24-22965a2d909c" alt="Latency Performance" width="45%" />
-  <img src="https://github.com/user-attachments/assets/6bbe4b7d-22a7-431a-8c96-86a0397d4946" alt="Reward Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/840177ff-c763-4a64-a4ea-71e108321c5a" alt="Latency Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c5eeec13-cde9-4670-8f88-3fda1533c07f" alt="Reward Performance" width="45%" />
 </p>
----
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/168090ab-8099-41f4-8b24-22965a2d909c" alt="Latency Performance" width="45%" />
-  <img src="https://github.com/user-attachments/assets/6bbe4b7d-22a7-431a-8c96-86a0397d4946" alt="Reward Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/613dc5b0-d2a2-4a52-af14-239f8742f417" alt="Latency Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f3151afb-0bb5-4b11-901b-14da34268814" alt="Reward Performance" width="45%" />
 </p>
----
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/168090ab-8099-41f4-8b24-22965a2d909c" alt="Latency Performance" width="45%" />
-  <img src="https://github.com/user-attachments/assets/6bbe4b7d-22a7-431a-8c96-86a0397d4946" alt="Reward Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/16b59580-b2f4-4d15-82ae-5479c8b85e4d" alt="Latency Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1c624aa7-6c97-47db-9343-964613a8162c" alt="Reward Performance" width="45%" />
 </p>
----
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/168090ab-8099-41f4-8b24-22965a2d909c" alt="Latency Performance" width="45%" />
-  <img src="https://github.com/user-attachments/assets/6bbe4b7d-22a7-431a-8c96-86a0397d4946" alt="Reward Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b95c7e87-a973-429f-b7bb-afd47960efc1" alt="Latency Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/dfaa192d-49b9-4656-b9d5-fcd487cce32c" alt="Reward Performance" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26140807-8bc9-47a4-99e1-15212455a47c" alt="Latency Performance" width="45%" />
 </p>
 
 <!--- ### Graph 1: Latency Performance Over Episodes
