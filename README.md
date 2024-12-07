@@ -95,10 +95,8 @@ latency-optimization-5g/
 
 ## Graphs
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/168090ab-8099-41f4-8b24-22965a2d909c)
-" alt="Latency Performance" width="45%" />
-  <img src="![image](https://github.com/user-attachments/assets/6bbe4b7d-22a7-431a-8c96-86a0397d4946)
-" alt="Reward Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/168090ab-8099-41f4-8b24-22965a2d909c" alt="Latency Performance" width="45%" />
+  <img src="https://github.com/user-attachments/assets/6bbe4b7d-22a7-431a-8c96-86a0397d4946" alt="Reward Performance" width="45%" />
 </p>
 
 <!--- ### Graph 1: Latency Performance Over Episodes
